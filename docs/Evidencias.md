@@ -8,7 +8,7 @@ Todas las capturas mencionadas en el archivo md se encuentran adjuntas en el arc
 ---
 
 ## 1. URL del Repositorio
-- *Enlace de GitHub:* https://github.com/TU_USUARIO/helpdesk-lite
+- *Enlace de GitHub:*  https://github.com/G2Cutbzzz/HelpDeskLite.git
 
 ---
 
